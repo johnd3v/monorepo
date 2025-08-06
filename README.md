@@ -1,0 +1,2 @@
+# project_2
+PROJECT 2 FOR MONOREPO
